@@ -1,0 +1,42 @@
+Ticketing System
+This is a ticketing system where you can create, respond to and cose tickets on different IT issues.
+
+
+Features:
+
+Create Ticket: Users can create a new ticket by providing necessary information such as creator name, staff ID, email address, and description.
+Resolve Ticket: Staff members can resolve open tickets by providing a response to the user's issue.
+Change Password (if Password Change Request): Handles password change requests by generating a new password and closing the ticket.
+View All Tickets: Displays all tickets along with their details.
+View Open Tickets: Shows only the open tickets.
+View Closed Tickets: Displays closed tickets.
+Ticket Statistics: Provides statistics on the number of tickets created, resolved, and open.
+Usage:
+
+Creating a Ticket:
+
+Choose option 1 from the menu.
+Enter the required details: Creator name, Staff ID, Email address, and Description.
+The ticket will be created and added to the system.
+Resolving a Ticket:
+
+Select option 2 from the menu.
+Choose the ticket to be resolved by its index.
+Enter a response to resolve the ticket.
+Changing Password (if Password Change Request):
+
+Opt for option 3 from the menu.
+Select the ticket for which a password change is requested.
+The system will generate a new password and close the ticket.
+Viewing Tickets:
+
+Choose from options 4, 5, or 6 to view all, open, or closed tickets respectively.
+Exiting the Program:
+
+Select option 0 from the menu to exit the program.
+Implementation Details:
+
+The program uses a Ticket class to encapsulate ticket attributes and methods.
+It employs class variables to keep track of ticket counts and statuses.
+Random function is used for generating passwords.
+The program utilizes a simple console based menu for user interaction.
