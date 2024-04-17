@@ -1,0 +1,7 @@
+Initializes an empty list called city.
+Uses a loop to prompt the user to enter the names of 5 cities, which are then added to the city list.
+Prints the list of cities.
+Prints the length of the city list.
+Appends the city name "Hong" to the city list.
+Removes the first element of the city list using the pop() method.
+Reverses the order of elements in the city list.
