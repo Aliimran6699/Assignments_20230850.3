@@ -1,0 +1,4 @@
+This Python script prompts the user to input a score within the range of 0 to 100.
+It ensures input validity through a while loop, repeatedly prompting until a valid score is provided. Then, it assigns a grade based on the score using a while loop with "break" statements.
+Grades are determined as follows: 80 or above for an "A", 60 to 79 for a "B", 50 to 59 for a "C", and below 50 for a "Fail".
+Finally, the script prints the determined grade.
