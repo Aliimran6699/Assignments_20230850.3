@@ -1,0 +1,2 @@
+This Python script prompts the user to input four numerical values corresponding to grades (M1 to M4) and calculates their average.
+It then determines whether the average grade is below 50, indicating a "Fail," or equal to or above 50, indicating a "Pass."
