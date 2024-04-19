@@ -1,0 +1,4 @@
+This Python class, `Arithmetic`, facilitates basic arithmetic operations between two numbers. 
+It includes methods for addition, subtraction, multiplication, and division, ensuring appropriate handling for division by zero. 
+Users can create an instance of the class with two numbers and perform the desired arithmetic operations using its methods. 
+An example usage is provided at the end of the code, demonstrating how to create an instance and perform arithmetic operations.
